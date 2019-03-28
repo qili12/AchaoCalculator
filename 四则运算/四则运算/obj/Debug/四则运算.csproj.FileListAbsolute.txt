@@ -1,0 +1,14 @@
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.exe.config
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.exe
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.pdb
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.csprojAssemblyReference.cache
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.csproj.CoreCompileInputs.cache
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.exe
+D:\四则运算\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.pdb
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.exe.config
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.exe
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\bin\Debug\四则运算.pdb
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.csprojAssemblyReference.cache
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.csproj.CoreCompileInputs.cache
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.exe
+D:\四则运算cal\AchaoCalculator\qili12\四则运算\四则运算\obj\Debug\四则运算.pdb
